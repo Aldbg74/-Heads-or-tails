@@ -3,3 +3,5 @@
 
 Can't make up your mind? And you are two people to have an opinion or to want something different? There is only one solution left!!
 HEADS OR FACE
+
+gcc flip_coin.c -o flip_coin
